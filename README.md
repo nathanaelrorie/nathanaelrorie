@@ -3,7 +3,7 @@
 <h2>⚾️ Baseball Projects:</h2>
 
 - [Pitch Eliminator](https://github.com/nathanaelrorie/UE-Pitch-Eliminator)
-- <b>Calculating Run Value</b>
+- [Calculating Run Value](https://github.com/nathanaelrorie/calculating-run-value)
 - [Work Examples](https://github.com/nathanaelrorie/Work-Examples)
 
 <h2>🏫 School Projects:</h2>
