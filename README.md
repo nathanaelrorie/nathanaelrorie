@@ -6,7 +6,7 @@
 - <b>Calculating Run Value</b>
 - [Work Examples](https://github.com/nathanaelrorie/Work-Examples)
 
-<h2>🏫 School Projects</h2>
+<h2>🏫 School Projects:</h2>
 
 - [Predicting MLB ERAs](https://github.com/nathanaelrorie/Predicting-ERA)
 - [Bivariate Maps](https://github.com/nathanaelrorie/Tableau-Skill)
