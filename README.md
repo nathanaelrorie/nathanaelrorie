@@ -11,8 +11,6 @@
 - [Predicting MLB ERAs](https://github.com/nathanaelrorie/Predicting-ERA)
 - [Bivariate Maps](https://github.com/nathanaelrorie/Tableau-Skill)
 - [Pitch Clock](https://github.com/nathanaelrorie/senior-project)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2> 🤳 Connect with me:</h2>
 
