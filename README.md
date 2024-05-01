@@ -8,7 +8,7 @@
 
 <h2>🏫 School Projects:</h2>
 
-- [Baseball: On the Clock](https://github.com/nathanaelrorie/Baseball-On-the-Clock))
+- [Baseball: On the Clock](https://github.com/nathanaelrorie/Baseball-On-the-Clock)
 - [Predicting MLB ERAs](https://github.com/nathanaelrorie/Predicting-ERA)
 - [Bivariate Maps](https://github.com/nathanaelrorie/Tableau-Skill)
 
