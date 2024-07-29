@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nathanael! <br/><a href="https://www.linkedin.com/in/nathanael-rorie-016b07182/">Data Science Student at Belmont University</a>
+<h1>Hi, I'm Nathanael! <br/><a href="https://www.linkedin.com/in/nathanael-rorie-016b07182/">B.S. Data Science from Belmont University</a>
   
 <h2>⚾️ Baseball Projects:</h2>
 
